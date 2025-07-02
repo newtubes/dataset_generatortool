@@ -19,12 +19,12 @@ Una herramienta versátil para la recolección, limpieza y preprocesamiento de d
 
 ## Instalación
 
-1.  **Clonar el repositorio (cuando esté en GitHub):**
+1.  **Clonar el repositorio:**
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone <(https://github.com/newtubes/dataset_generatortool)>
     cd dataset_generator
     ```
-    (Por ahora, asegúrate de estar en el directorio `C:/Users/Administrador/dataset_generator`)
+   
 
 2.  **Crear un entorno virtual (recomendado):**
     ```bash
