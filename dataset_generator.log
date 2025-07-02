@@ -1,0 +1,30 @@
+2025-07-02 09:14:42,613 - INFO - Executing command: 'clean'
+2025-07-02 09:14:42,613 - INFO - Starting data cleaning for C:/Users/Administrador/dataset_generator/ai.txt...
+2025-07-02 09:14:42,629 - INFO - Successfully cleaned data and saved to C:/Users/Administrador/dataset_generator/ai_cleaned_modular.txt
+2025-07-02 09:14:42,645 - INFO - Dataset Generator Tool finished.
+2025-07-02 09:19:25,097 - INFO - Executing command: 'collect'
+2025-07-02 09:19:25,097 - INFO - Starting data collection from https://es.wikipedia.org/wiki/Inteligencia_artificial...
+2025-07-02 09:19:25,691 - INFO - Successfully collected data and saved to C:/Users/Administrador/dataset_generator/ia.txt
+2025-07-02 09:19:25,691 - INFO - Dataset Generator Tool finished.
+2025-07-02 09:19:31,753 - INFO - Executing command: 'clean'
+2025-07-02 09:19:31,753 - INFO - Starting data cleaning for C:/Users/Administrador/dataset_generator/ia.txt...
+2025-07-02 09:19:31,785 - INFO - Successfully cleaned data and saved to C:/Users/Administrador/dataset_generator/ia_cleaned.txt
+2025-07-02 09:19:31,785 - INFO - Dataset Generator Tool finished.
+2025-07-02 09:19:45,787 - INFO - Executing command: 'preprocess'
+2025-07-02 09:19:45,787 - INFO - Starting data preprocessing for C:/Users/Administrador/dataset_generator/ia_cleaned.txt in spanish...
+2025-07-02 09:19:46,272 - INFO - Successfully preprocessed data and saved to C:/Users/Administrador/dataset_generator/ia_preprocessed_es.txt
+2025-07-02 09:19:46,272 - INFO - Dataset Generator Tool finished.
+2025-07-02 09:22:29,355 - INFO - Executing command: 'collect'
+2025-07-02 09:22:29,371 - INFO - Starting data collection from https://en.wikipedia.org/wiki/Artificial_intelligence...
+2025-07-02 09:22:30,902 - INFO - Successfully collected data from https://en.wikipedia.org/wiki/Artificial_intelligence and appended to C:/Users/Administrador/dataset_generator/combined_data.txt
+2025-07-02 09:22:30,902 - INFO - Starting data collection from https://es.wikipedia.org/wiki/Inteligencia_artificial...
+2025-07-02 09:22:31,480 - INFO - Successfully collected data from https://es.wikipedia.org/wiki/Inteligencia_artificial and appended to C:/Users/Administrador/dataset_generator/combined_data.txt
+2025-07-02 09:22:31,480 - INFO - Starting data collection from https://en.wikipedia.org/wiki/Machine_learning...
+2025-07-02 09:22:32,589 - INFO - Successfully collected data from https://en.wikipedia.org/wiki/Machine_learning and appended to C:/Users/Administrador/dataset_generator/combined_data.txt
+2025-07-02 09:22:32,589 - INFO - Starting data collection from https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico...
+2025-07-02 09:22:32,886 - INFO - Successfully collected data from https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico and appended to C:/Users/Administrador/dataset_generator/combined_data.txt
+2025-07-02 09:22:32,886 - INFO - Dataset Generator Tool finished.
+2025-07-02 10:13:00,472 - INFO - Executing command: 'clean'
+2025-07-02 10:13:00,472 - INFO - Starting data cleaning for C:/Users/Administrador/dataset_generator/combined_data.txt...
+2025-07-02 10:13:00,706 - INFO - Successfully cleaned data and saved to C:/Users/Administrador/dataset_generator/combined_data_cleaned_regex.txt
+2025-07-02 10:13:00,722 - INFO - Dataset Generator Tool finished.

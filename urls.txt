@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://es.wikipedia.org/wiki/Inteligencia_artificial
+https://en.wikipedia.org/wiki/Machine_learning
+https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico

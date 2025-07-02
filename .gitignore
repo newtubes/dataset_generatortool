@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# NLTK data
+*.nltk_data/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
